@@ -11,7 +11,7 @@
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestJs" width="40" height="40"/> </a>
 <p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reckai&show_icons=true&locale=en&layout=compact" alt="reckai" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reckai&show_icons=true&locale=en&layout=compact&theme=dark" alt="reckai" />
 
 </p>
 
